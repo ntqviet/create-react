@@ -1,0 +1,8 @@
+.nbar{
+  text-decoration: none;
+  color:#140202;
+}
+.nbar:hover{
+  opacity:0.8;
+  color:red;
+}
